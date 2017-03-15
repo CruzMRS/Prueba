@@ -6,6 +6,7 @@ public class Pru {
 	{
 		System.out.println("Prueba");
 		System.out.println("cambio");
+		System.out.println("cambio2");
 	}
 
 }
