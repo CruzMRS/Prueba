@@ -61,5 +61,10 @@ public class Calculadora {
 	{
 		return x / i;
 	}
+	
+	public static void main()
+	{
+		
+	}
 
 }
